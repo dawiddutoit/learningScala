@@ -1,0 +1,14 @@
+[info] Running Main 
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug]   Classpath:
+[debug] 	C:\Users\unit01\Documents\projects\scala\example\target\scala-2.11\classes
+[debug] 	C:\Users\unit01\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+[debug] 	C:\Users\unit01\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.4.jar
+[debug] 	C:\Users\unit01\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.2.jar
+[debug] 	C:\Users\unit01\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar
+[debug] 	C:\Users\unit01\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar
+[debug] Waiting for thread run-main-0 to terminate.
+[debug] 	Thread run-main-0 exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0
