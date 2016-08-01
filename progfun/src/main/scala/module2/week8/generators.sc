@@ -1,4 +1,4 @@
-import module2.week8._
+import module2.week8.{Tree, _}
 
 object generators extends Tree {
   val integers = new Generator[Int] {
