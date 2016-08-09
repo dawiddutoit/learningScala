@@ -1,0 +1,9 @@
+[info] Attempting to submit "funsets" assignment in "progfun1" course
+[info] Using:
+[info] - email: fifthchildd@gmail.com
+[info] - submit token: Gg0LIEfAuW05B94c
+[info] Connecting to Coursera...
+[error] Connection to Coursera failed.
+[error] There was something wrong while attempting to connect to Coursera.
+[error] Check your internet connection.
+[error] java.net.SocketTimeoutException: Read timed out
